@@ -1,0 +1,12 @@
+{
+  "name": "Bhavya Electrical",
+  "description": "Premium Electrical Repair and Services in Lucknow by Anoop Chaurasiya. Expert wiring, motor rewinding, and appliance repair.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Electrical Repairs",
+    "Home Wiring",
+    "Industrial Electrical Services"
+  ]
+}
